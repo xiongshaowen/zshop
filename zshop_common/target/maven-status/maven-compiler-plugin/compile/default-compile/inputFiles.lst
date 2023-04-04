@@ -1,0 +1,15 @@
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\constant\SysuserConstant.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\constant\ResponseStatusConstant.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\exception\LoginErrorException.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\exception\ProductTypeExistException.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\ResponseResult.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\constant\PaginationConstant.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\exception\SysuserNotExistException.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\HttpClientUtils.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\constant\CustomerConstant.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\constant\ProductTypeConstant.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\exception\PhoneNotRegistException.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\RedisUtils.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\StringUtils.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\FtpUtils.java
+C:\Users\Administrator\Desktop\zshop\zshop_parent\zshop_common\src\main\java\com\itany\zshop\common\util\SpringBeanHolder.java
