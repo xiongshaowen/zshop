@@ -15,13 +15,13 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="zshop_backend_web" target="1.8" />
-      <module name="zshop_common" target="1.8" />
-      <module name="zshop_dao" target="1.8" />
-      <module name="zshop_front_web" target="1.8" />
+      <module name="zshop_backend_web" target="1.7" />
+      <module name="zshop_common" target="1.7" />
+      <module name="zshop_dao" target="1.7" />
+      <module name="zshop_front_web" target="1.7" />
       <module name="zshop_parent" target="1.8" />
-      <module name="zshop_pojo" target="1.8" />
-      <module name="zshop_service" target="1.8" />
+      <module name="zshop_pojo" target="1.7" />
+      <module name="zshop_service" target="1.7" />
     </bytecodeTargetLevel>
   </component>
 </project>
